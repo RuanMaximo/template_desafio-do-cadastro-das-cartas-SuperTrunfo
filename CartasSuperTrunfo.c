@@ -12,6 +12,7 @@ int main() {
   // Área para exibição dos dados da cidade
 
   printf("teste");
+  printf("novo teste");
 
 return 0;
 } 
